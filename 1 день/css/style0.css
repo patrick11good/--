@@ -1,0 +1,15 @@
+.c0 {
+	width: calc(100% / 3);
+}
+.c01 {
+	transform: rotate(90deg);
+}
+.c02 {
+	font-size: calc(3vw + 20px);
+}
+html {
+	--jojo: 7,7;
+}
+.c03 {
+	padding: calc(var(--jojo) * 2rem);
+}
